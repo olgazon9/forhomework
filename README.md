@@ -19,6 +19,6 @@ The repository is organized as follows:
 
 Happy coding with JavaScript! 🚀
 
-*(Note: Replace `<insert deadline date>` with the actual deadline date provided by the instructor.)*
+
 
  
